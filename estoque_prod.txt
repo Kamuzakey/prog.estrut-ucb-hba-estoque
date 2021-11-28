@@ -1,0 +1,2 @@
+0 | chip | 98 | valido = 0
+1 | cabos | 99 | valido = 0
